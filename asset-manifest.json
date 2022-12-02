@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/smart-estore/static/css/main.5ff605b8.css",
+    "main.js": "/smart-estore/static/js/main.1845033b.js",
+    "static/js/787.a91053ce.chunk.js": "/smart-estore/static/js/787.a91053ce.chunk.js",
+    "static/media/noresultfound.gif": "/smart-estore/static/media/noresultfound.825635cf27aaa696a35b.gif",
+    "static/media/about-1.png": "/smart-estore/static/media/about-1.d14ecc532052f5f18ca7.png",
+    "static/media/jew.png": "/smart-estore/static/media/jew.0379f11f904c55d656f9.png",
+    "static/media/clothes-model2.png": "/smart-estore/static/media/clothes-model2.64f31877799797a2d55b.png",
+    "static/media/QLEDt.png": "/smart-estore/static/media/QLEDt.0696099d41226fa87d5a.png",
+    "static/media/man.png": "/smart-estore/static/media/man.3879587d12ca9be787ef.png",
+    "static/media/shopping-login.png": "/smart-estore/static/media/shopping-login.37f565c337cf22afc1f3.png",
+    "static/media/jew2.png": "/smart-estore/static/media/jew2.737fbd76e2127aa71e16.png",
+    "static/media/google.png": "/smart-estore/static/media/google.c6066060452fe811358d.png",
+    "static/media/peakpx.jpg": "/smart-estore/static/media/peakpx.e751766b2586a4dceb7f.jpg",
+    "static/media/signup.png": "/smart-estore/static/media/signup.99c2b8f7e662ef8b8449.png",
+    "static/media/bg.jpg": "/smart-estore/static/media/bg.2abf5226fc54a64f77e5.jpg",
+    "static/media/bag.svg": "/smart-estore/static/media/bag.52093bcbc87edb17ef6ea6ab010dda4e.svg",
+    "static/media/logo.svg": "/smart-estore/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/smart-estore/index.html",
+    "main.5ff605b8.css.map": "/smart-estore/static/css/main.5ff605b8.css.map",
+    "main.1845033b.js.map": "/smart-estore/static/js/main.1845033b.js.map",
+    "787.a91053ce.chunk.js.map": "/smart-estore/static/js/787.a91053ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ff605b8.css",
+    "static/js/main.1845033b.js"
+  ]
+}
